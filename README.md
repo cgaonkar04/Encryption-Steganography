@@ -233,14 +233,7 @@ The project combines two different security mechanisms:
 
 ---
 
-## Technologies
 
-- Python
-- AES-256-GCM
-- PBKDF2-HMAC-SHA256
-- Pillow
-- LSB Steganography
-- Binary File I/O
 
 ### Files
 
